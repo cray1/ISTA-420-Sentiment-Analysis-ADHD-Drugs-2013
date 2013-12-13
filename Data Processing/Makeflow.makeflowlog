@@ -1,0 +1,64 @@
+# NODE	9	python datahandling.py test1ai
+# CATEGORY	9	default
+# PARENTS	9	0	0
+# SOURCES	9	test1ai	datahandling.py
+# TARGETS	9	9
+# COMMAND	9	python datahandling.py test1ai
+# NODE	8	python datahandling.py test1ah
+# CATEGORY	8	default
+# PARENTS	8	0	0
+# SOURCES	8	test1ah	datahandling.py
+# TARGETS	8	8
+# COMMAND	8	python datahandling.py test1ah
+# NODE	7	python datahandling.py test1ag
+# CATEGORY	7	default
+# PARENTS	7	0	0
+# SOURCES	7	test1ag	datahandling.py
+# TARGETS	7	7
+# COMMAND	7	python datahandling.py test1ag
+# NODE	6	python datahandling.py test1af
+# CATEGORY	6	default
+# PARENTS	6	0	0
+# SOURCES	6	test1af	datahandling.py
+# TARGETS	6	6
+# COMMAND	6	python datahandling.py test1af
+# NODE	5	python datahandling.py test1ae
+# CATEGORY	5	default
+# PARENTS	5	0	0
+# SOURCES	5	test1ae	datahandling.py
+# TARGETS	5	5
+# COMMAND	5	python datahandling.py test1ae
+# NODE	4	python datahandling.py test1ad
+# CATEGORY	4	default
+# PARENTS	4	0	0
+# SOURCES	4	test1ad	datahandling.py
+# TARGETS	4	4
+# COMMAND	4	python datahandling.py test1ad
+# NODE	3	python datahandling.py test1ac
+# CATEGORY	3	default
+# PARENTS	3	0	0
+# SOURCES	3	test1ac	datahandling.py
+# TARGETS	3	3
+# COMMAND	3	python datahandling.py test1ac
+# NODE	2	python datahandling.py test1ab
+# CATEGORY	2	default
+# PARENTS	2	0	0
+# SOURCES	2	test1ab	datahandling.py
+# TARGETS	2	2
+# COMMAND	2	python datahandling.py test1ab
+# NODE	1	python datahandling.py test1aa
+# CATEGORY	1	default
+# PARENTS	1	0	0
+# SOURCES	1	test1aa	datahandling.py
+# TARGETS	1	1
+# COMMAND	1	python datahandling.py test1aa
+# NODE	0	
+# CATEGORY	0	default
+# PARENTS	0
+# SOURCES	0
+# TARGETS	0	test1ai	test1ah	test1ag	test1af	test1ae	test1ad	test1ac	test1ab	test1aa	datahandling.py
+# COMMAND	0	
+# STARTED	1386571927694239
+1386571927694417 0 1 13906 9 1 0 0 0 10
+1386571927700659 0 3 13906 9 0 0 1 0 10
+# FAILED	1386571927700698

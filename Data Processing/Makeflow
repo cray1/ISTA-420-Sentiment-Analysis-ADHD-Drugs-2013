@@ -1,0 +1,21 @@
+datahandling.py  test1aa  test1ab  test1ac  test1ad  test1ae  test1af  test1ag	test1ah  test1ai:
+
+1: datahandling.py test1aa
+	python datahandling.py test1aa
+2: datahandling.py test1ab
+	python datahandling.py test1ab
+3: datahandling.py test1ac
+        python datahandling.py test1ac
+4: datahandling.py test1ad
+        python datahandling.py test1ad
+5: datahandling.py test1ae
+        python datahandling.py test1ae
+6: datahandling.py test1af
+        python datahandling.py test1af
+7: datahandling.py test1ag
+        python datahandling.py test1ag
+8: datahandling.py test1ah
+        python datahandling.py test1ah
+9: datahandling.py test1ai
+        python datahandling.py test1ai
+
