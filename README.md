@@ -9,6 +9,7 @@ number of user. On Twitter, users publish short messages using 140 or fewer
 characters to “tweet” about their opinion on various topics and to share information 
 
 or have conversations with the follower. Often, a Twitter user would share health-
+
 related information such as their medications and associated effects. Hence, we 
 
 believe that Twitter can be a promising Internet based real time medication review 
